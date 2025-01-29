@@ -26,6 +26,14 @@
 ▲ Database Manage : MySql | MongoDB | PostgreSQL | Firebase
 
 <br>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 📊 GitHub Stats</h2>
+<details align="center" open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=geniusgolddev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="GeniusGoldDev's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusGoldDev&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
+<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geniusgolddev&theme=juicyfresh" /><a>
+</p>
+<br/>
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
