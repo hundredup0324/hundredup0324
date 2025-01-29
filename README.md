@@ -1,4 +1,3 @@
-![Arctic Code Vault Contributor](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)
 <p align="center">
   <a href="" ><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20and%20Mobile%20Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
